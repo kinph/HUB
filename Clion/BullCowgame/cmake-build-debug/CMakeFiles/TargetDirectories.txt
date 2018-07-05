@@ -1,0 +1,3 @@
+C:/Users/kinsleyp/CLionProjects/BullCowgame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/kinsleyp/CLionProjects/BullCowgame/cmake-build-debug/CMakeFiles/BullCowgame.dir
+C:/Users/kinsleyp/CLionProjects/BullCowgame/cmake-build-debug/CMakeFiles/edit_cache.dir
